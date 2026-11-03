@@ -118,7 +118,7 @@ There is an image folder containing looks from various pages.
 #### 1.5.2. Tools
 The project lives in the Power BI file and to visualize it you have to
 download and view it locally in your computer, it also means you need
-to have an installation of Powe BI in your system.
+to have an installation of Power BI in your system.
 
 ## 2. Page 1: Data Jobs Dashboard (High Level Market View)
 #### 2.1. Objective
